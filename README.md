@@ -4,6 +4,11 @@ A responsive, single-page coaching institute website built with **HTML5, custom 
 
 > **Important:** EduPath, its staff, student stories, contact details, and statistics are sample/demo content. Replace them with verified client information before publishing. The inquiry form only validates in the browser; it does not send or store submissions.
 
+
+## Live Demo Link
+https://yuvrajsahu8055.github.io/edupath-coaching-landing-page/
+
+
 ## Features
 
 - Single-page layout with in-page navigation
